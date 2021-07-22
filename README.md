@@ -1,4 +1,12 @@
 # AWS Glue / PySpark QuestDB writer
+[![PyPI version](https://badge.fury.io/py/awsglue-questdb-writer.svg)](https://badge.fury.io/py/awsglue-questdb-writer) 
+![PyPI - Downloads](https://img.shields.io/pypi/dd/awsglue-questdb-writer) 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/awsglue-questdb-writer)
+[![GitHub issues](https://img.shields.io/github/issues/Tymlez/awsglue-questdb-writer)](https://github.com/Tymlez/awsglue-questdb-writer/issues) 
+[![GitHub forks](https://img.shields.io/github/forks/Tymlez/awsglue-questdb-writer)](https://github.com/Tymlez/awsglue-questdb-writer/network) 
+[![GitHub stars](https://img.shields.io/github/stars/Tymlez/awsglue-questdb-writer)](https://github.com/Tymlez/awsglue-questdb-writer/stargazers) 
+[![GitHub license](https://img.shields.io/github/license/Tymlez/awsglue-questdb-writer)](https://github.com/Tymlez/awsglue-questdb-writer/blob/main/LICENSE)
+
 A simple writing utility for writing to QuestDB from PySpark / AWS Glue
 
 #Introduction
