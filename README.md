@@ -9,21 +9,21 @@
 
 A simple writing utility for writing to QuestDB from PySpark / AWS Glue
 
-#Introduction
+# Introduction
 A very simple convenience library created due to difficulty in getting custom builds of the AWS Glue Libs for AWS for local development.
 The standard release is Python 3.6 and requires some changes to be made in order to add in extra libraries.
 
 The InfluxDB writer is a potential alternative to this, but I didn't have much of a chance to get it working due
 to dependencies and it not easily supporting PySpark.
 
-#Installation
+# Installation
 
 Install this via pip
 
 `pip3 install awsglue-questdb-writer`
 
 
-#Usage
+# Usage
 
 In your AWS Glue / PySpark Job include the file via
 
@@ -67,5 +67,5 @@ job.commit()
 
 ```
 
-#License
+# License
 See LICENSE for full details
